@@ -1,0 +1,4 @@
+C:\Users\Gman9\Epicodus\C#\Rock-Paper-Scissors\RPS.Test\obj\Debug\netcoreapp2.2\RPS.Test.csprojAssemblyReference.cache
+C:\Users\Gman9\Epicodus\C#\Rock-Paper-Scissors\RPS.Test\obj\Debug\netcoreapp2.2\RPS.Test.csproj.CoreCompileInputs.cache
+C:\Users\Gman9\Epicodus\C#\Rock-Paper-Scissors\RPS.Test\obj\Debug\netcoreapp2.2\RPS.Test.AssemblyInfoInputs.cache
+C:\Users\Gman9\Epicodus\C#\Rock-Paper-Scissors\RPS.Test\obj\Debug\netcoreapp2.2\RPS.Test.AssemblyInfo.cs

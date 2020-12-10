@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS.Test\\RPS.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS.Test\\RPS.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS.Test\\RPS.Test.csproj",
+        "projectName": "RPS.Test",
+        "projectPath": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS.Test\\RPS.Test.csproj",
+        "packagesPath": "C:\\Users\\Gman9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gman9\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS\\RPS.csproj": {
+                "projectPath": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS\\RPS.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS\\RPS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS\\RPS.csproj",
+        "projectName": "RPS",
+        "projectPath": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS\\RPS.csproj",
+        "packagesPath": "C:\\Users\\Gman9\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gman9\\Epicodus\\C#\\Rock-Paper-Scissors\\RPS\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gman9\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
